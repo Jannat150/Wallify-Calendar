@@ -96,8 +96,6 @@ npm install
 npm run dev
 ```
 
-Then open the local URL shown by Vite (typically `http://localhost:5173`).
-
 ## Available Scripts
 
 Inside `calendar-app`:
@@ -119,26 +117,6 @@ Inside `calendar-app`:
 - `NotesPanel.jsx` manages range context + note input UX.
 - `calendarConfig.js` maps months to hero images and palette themes.
 
-## Submission Links
+## Key Idea
+A frontend-only calendar system focused on UI precision, interaction design, and usability—no backend used.
 
-Replace placeholders with your final assets:
-
-- Source Code: `<your-public-repo-link>`
-- Video Demonstration (Required): `<your-loom-or-youtube-link>`
-- Live Demo (Optional): `<your-vercel-netlify-link>`
-
-## Evaluation Scope Alignment
-
-This implementation intentionally stays within frontend scope only:
-
-- No backend, database, or API dependencies
-- Client-side state management with React hooks
-- Client-side persistence via `localStorage`
-- Focus on component architecture, styling, interaction quality, and responsiveness
-
-## Future Enhancements
-
-- Add keyboard navigation and richer accessibility states.
-- Add animated page-flip or month transition effects.
-- Add holiday/event markers and recurring reminders.
-- Add user-selectable themes or dynamic palette extraction from hero image.
