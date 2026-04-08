@@ -4,7 +4,7 @@ An interactive React wall-calendar component built for a frontend engineering ch
 
 ## Preview
 
-![Wallify Calendar Preview](./calendar-app/src/assets/Screenshot%202026-04-08%20162123.png)
+![Wallify Calendar Preview](./calendar-app/src/assets/calendar-preview.png)
 
 > Tip: replace this with a real full-UI screenshot (for example `./docs/calendar-preview.png`) before final submission.
 
